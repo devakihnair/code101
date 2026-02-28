@@ -1,0 +1,5 @@
+SleepSync AI is a smart digital assistant that predicts how much energy you will have tomorrow based on your body’s current biological data. It tracks three main factors: your "Sleep Debt" from the previous night, the "Caffeine Pulse" still in your system, and your "Metabolic Load" from late-night meals. By calculating how these habits interfere with your deep sleep cycles, the app gives you a personalized efficiency score to help you plan your day.
+
+To get your own version running, you just need to upload your code to GitHub and connect it to Streamlit Community Cloud. Make sure to include a requirements.txt file so the server knows which tools to install. Once deployed, you will have a cinematic, high-tech website that turns complex biology into simple, actionable insights for better performance.
+
+CLICK HERE: https://code101-adyol6ujmd5fudvo5dhwvu.streamlit.app/
